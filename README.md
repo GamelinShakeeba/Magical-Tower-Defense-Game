@@ -1,2 +1,2 @@
 # Magical-Tower-Defense-Game
-This have EXE file
+This folder contain EXE file for Magical Tower Defense Game
